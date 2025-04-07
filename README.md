@@ -15,10 +15,10 @@ Size: 180,000+ records
 **🔍 Key Insights:**
 
 1. Revenue Analysis
-2. Customer Segmentation (Clustering Analysis):
-3. Cancellation Analysis (Correlation Study):
-4. Revenue generated per Vehicle Type comparison:
-5. Bookings Status Comparison:
+2. Customer Segmentation (Clustering Analysis)
+3. Cancellation Analysis (Correlation Study)
+4. Revenue generated per Vehicle Type comparison
+5. Bookings Status Comparison
      
 **🛠 Tools & Technologies:**
 
